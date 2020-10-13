@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "647042582005",
+    "firebase_url": "https://wager-tracker-2d961.firebaseio.com",
+    "project_id": "wager-tracker-2d961",
+    "storage_bucket": "wager-tracker-2d961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647042582005:android:c44bafa70d22b369e38cbc",
+        "android_client_info": {
+          "package_name": "com.slowmonkeycodes.learning_firebase_android_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647042582005-qkukae85tec9fcf69kfo5hta9lnokurn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slowmonkeycodes.learning_firebase_android_app",
+            "certificate_hash": "e5c47722453debc72224c83f9b859c8070abeb55"
+          }
+        },
+        {
+          "client_id": "647042582005-nrlmo2a9u7s70g8cbfodusb9508up0gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWDD1-jaNLeLiaDgIVJKiEKno9fxYeCvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647042582005-nrlmo2a9u7s70g8cbfodusb9508up0gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647042582005:android:1a86851efdf509a6e38cbc",
+        "android_client_info": {
+          "package_name": "com.slowmonkeycodes.learningfirebaseauthenticationpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647042582005-9c04ve342sd2bfo16jqoon9uiv4dnn8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slowmonkeycodes.learningfirebaseauthenticationpractice",
+            "certificate_hash": "e5c47722453debc72224c83f9b859c8070abeb55"
+          }
+        },
+        {
+          "client_id": "647042582005-nrlmo2a9u7s70g8cbfodusb9508up0gb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWDD1-jaNLeLiaDgIVJKiEKno9fxYeCvI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647042582005-nrlmo2a9u7s70g8cbfodusb9508up0gb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
